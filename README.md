@@ -1,6 +1,6 @@
 ### Hello There! Me chamo Isabelly Santos. 👽
 
-Tenho 20 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Fatec Rubens Lara. Meus pronomes são ela/dela.
+Tenho 20 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Fatec Rubens Lara.
 
 <div>
   <a href="https://github.com/bellysantos">
